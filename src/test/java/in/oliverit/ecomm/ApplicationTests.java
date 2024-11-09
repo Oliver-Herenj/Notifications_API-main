@@ -1,4 +1,4 @@
-package in.ashokit.ecomm;
+package in.oliverit.ecomm;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
